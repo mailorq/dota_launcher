@@ -1,4 +1,4 @@
-# Dota launcher
+# Voice Dota 2 launcher
 
 Слушает микрофон и запускает Dota 2 когда вы произносите заветную фразу.
 
