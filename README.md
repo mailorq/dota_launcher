@@ -20,8 +20,8 @@
 Clone the repository:
 
 ```
-git clone https://github.com/mailorq/SteinsGate_project.git
-cd SteinsGate_project
+git clone https://github.com/mailorq/dota_launcher.git
+cd dota_launcher
 ```
 
 Create virtual environment:
