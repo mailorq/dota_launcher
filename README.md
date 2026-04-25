@@ -17,7 +17,12 @@
 - Python 3.8+
 - Микрофон
 
-## Установка
+Clone the repository:
+
+```
+git clone https://github.com/mailorq/SteinsGate_project.git
+cd SteinsGate_project
+```
 
 Create virtual environment:
 
@@ -39,7 +44,9 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-```bash
+Install dependencies:
+
+```
 pip install -r requirements.txt
 ```
 
